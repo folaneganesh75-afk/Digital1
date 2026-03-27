@@ -1,2 +1,2 @@
 FROM httpd
-COPY . /usr/local/apache2/htdocs/
+COPY ./templatemo_607_glass_admin/ /usr/local/apache2/htdocs/
